@@ -1,7 +1,9 @@
 # Peraktikum 1 ALPRO
 
 Nama : Muhammad Jibran
+
 Kelas : 1A - Informatika
+
 NPM : 2310631170103
 
 ## Alat & Bahan
